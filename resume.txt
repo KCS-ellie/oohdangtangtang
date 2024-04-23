@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+* 자격증 : 리눅스마스터 2급, 정보처리기사
+* 대외활동 : 코드스테이츠 with summer
+* 사용기술 : java, html, css, javascript, springboot, mysql
+=======
+* 학력 : 대학 졸업
+* 이름 : 김소민
+* 나이 : 25세
+>>>>>>> sub1
